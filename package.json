@@ -23,7 +23,7 @@
     "dva-loading": "^0.2.0",
     "echarts": "^3.4.0",
     "localforage": "^1.4.3",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.19",
     "moment": "^2.18.1",
     "react": "^15.1.0",
     "react-dom": "^15.4.1",
